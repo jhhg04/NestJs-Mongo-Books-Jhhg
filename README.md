@@ -7,6 +7,14 @@ MongoDb
 Mongoose
 ```
 ## API
+### Swagger
+```bash
+http://localhost:3000/api
+```
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/616860bc-2738-4d67-ad33-4638fc1c203e)
+
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/dbee286b-21d9-40b4-a93c-690fabe711fa)
+
 ### Get
 ![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/e816d4b1-5ee3-4785-8b6c-bdb0b62de9aa)
 
@@ -22,14 +30,11 @@ Mongoose
 ![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/db83834f-343d-4759-b442-9a54d2e5fffa)
 
 ## Backend Project
-
 ```bash
 back -> booksapi
-
 ```
 
 ## Run backend, in productsapi folder
-
 ```bash
 $ git clone https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg.git
 $ cd NestJs-Mongo-Books-Jhhg
@@ -37,4 +42,3 @@ $ npm install
 $ npm run start:dev
 http://localhost:3000/api/books/
 ```
-
