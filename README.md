@@ -1,40 +1,40 @@
 
 ## Description
 ```bash
-APi Products
+APi Books
 NestJs 
 MongoDb
 Mongoose
 ```
 ## API
 ### Get
-![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/fdd0a79b-a6cb-4da1-98ba-80446094cb93)
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/e816d4b1-5ee3-4785-8b6c-bdb0b62de9aa)
 
-![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/dc4f6543-4acc-4643-8e86-ee2b061cf0fb)
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/bbbb2147-3f0c-43e4-bb5e-899c81fc68d5)
 
 ### Post
-![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/64e38d69-5177-427c-b647-a16c50587294)
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/e9eee03c-8a3b-41cd-ab56-94f43e08494f)
 
 ### Put
-![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/33cad43c-7ee4-44e1-b9fa-b432a416494d)
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/9607f7ae-eab8-4a95-a232-a9e9d8459ef8)
 
 ### Delete
-![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/0cf4b55d-da53-4610-9ddc-c5de72009481)
+![image](https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg/assets/52834318/db83834f-343d-4759-b442-9a54d2e5fffa)
 
 ## Backend Project
 
 ```bash
-back -> productsapi
+back -> booksapi
 
 ```
 
 ## Run backend, in productsapi folder
 
 ```bash
-$ git clone https://github.com/jhhg04/NestJs-Mongo-Products-Fazt.git
-$ cd NestJs-Mongo-Products-Fazt
+$ git clone https://github.com/jhhg04/NestJs-Mongo-Books-Jhhg.git
+$ cd NestJs-Mongo-Books-Jhhg
 $ npm install
 $ npm run start:dev
-http://localhost:3000/product/
+http://localhost:3000/api/books/
 ```
 
